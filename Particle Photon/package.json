@@ -1,0 +1,20 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "the server file for Photon weather sheild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "feedparser": "^1.1.4",
+    "requests": "^0.1.7",
+    "require": "^2.4.20",
+    "twilio": "^2.9.0"
+  },
+  "devDependencies": {}
+}
